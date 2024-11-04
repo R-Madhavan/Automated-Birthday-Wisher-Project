@@ -3,7 +3,7 @@ import datetime as dt
 import smtplib
 import random
 
-my_email = "example@gmail.com"
+my_email = "yoursample@gmail.com"
 password = "********"               #enable 2-step verification in mail and generate app password code
 
 # CURRENT MONTH AND DAY
