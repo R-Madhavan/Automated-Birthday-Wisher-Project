@@ -1,4 +1,4 @@
-#Automated Birthday Wisher Project
+# Automated Birthday Wisher Project
 
 A simple Python script that sends birthday wishes via email to friends and family using pre-defined letter templates. The script checks a CSV file for birthdays and sends an email on the corresponding date.
 
